@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geobiology"
+    ]
+  ],
+  "legacy_uid": "4b4332f9-8a40-d214-2387-a311f52ab08c",
+  "instructors": {
+    "content": [
+      "8168d826-1459-74d4-4a87-01601977df59",
+      "54903f7e-df1b-33b0-d5fa-860655223316"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b037dab4-b1ff-2ace-7a6f-6557eb4515af",
+    "website": "12-007-geobiology-spring-2013"
+  },
+  "course_title": "Geobiology",
+  "course_description": "This course introduces the parallel evolution of life and the environment. Life processes are influenced by chemical and physical processes in the atmosphere, hydrosphere, cryosphere and the solid earth. In turn, life can influence chemical and physical processes on our planet. This course explores the concept of life as a geological agent and examines the interaction between biology and the earth system during the roughly 4 billion years since life first appeared.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.007",
+  "course_image_thumbnail": {
+    "content": "0e6593bd-5c7d-e131-8b87-f2b6227e3e2f",
+    "website": "12-007-geobiology-spring-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "241e25b4-bf8b-49d7-8293-ca908a543eee",
+  "site_short_id": "12.007-spring-2013",
+  "site_url_path": "courses/12-007-geobiology-spring-2013",
+  "title": "Course Metadata"
+}
