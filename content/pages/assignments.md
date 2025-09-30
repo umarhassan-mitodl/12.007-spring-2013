@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the assignments for the course, including writing
   assignments and problem sets. Solutions are provided for the problem sets.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ What is meant by the concept of Galactic Habitable Zone. Illustrate with referen
 Paper
 -----
 
-1.  Read the paper {{% resource_link "d99c4c38-32b0-489d-9b1c-d36ebdf15d4c" "Phylogenetic Structure of the Prokaryotic Domain: The Primary Kingdoms" %}} and answer the following questions.
+1.  Read the paper [Phylogenetic Structure of the Prokaryotic Domain: The Primary Kingdoms](http://www.jstor.org/discover/10.2307/67531?uid=3739696&uid=2&uid=4&uid=3739256&sid=21102534816903) and answer the following questions.
     1.  Why do chloroplasts have 16S rRNA and what is the sequence of this RNA similar to?
     2.  What metabolic class of Archaea was used to determine the similarity of Archaea to Bacteria? How do these organisms match/represent the evolutionary diversity of Archaea known today? (you should look at a much more recent phylogenetic tree)
     3.  How evolutionarily similar are Archaea to Bacteria or Eukarya?

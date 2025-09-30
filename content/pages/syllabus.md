@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the course description and information on meeting
   times, prerequisites, textbooks, recommended readings, grading, and the schedule
   of lecture topics, exams, and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,9 +40,9 @@ Morel, M. M., and J. Hering. _Principles and Applications of Aquatic Chemistry._
 Recommended Readings
 --------------------
 
-Wills, Christopher, and Jeffrey Bada. _The Spark of Life: Darwin And The Primeval Soup._ Basic Books, 2000. ISBN: 9780738201962. \[Preview with {{% resource_link "0435a5eb-acf2-487f-8f35-ae4fbcec3841" "Google Books" %}}\]
+Wills, Christopher, and Jeffrey Bada. _The Spark of Life: Darwin And The Primeval Soup._ Basic Books, 2000. ISBN: 9780738201962. \[Preview with [Google Books](http://books.google.com/books?id=wqXhqLl5J50C&pg=PAfrontcover)\]
 
-Cesare, Emiliani. _Planet Earth: Cosmology, Geology and the Evolution of Life and Environment_. Cambridge University Press, 1992. ISBN: 9780521409490. \[Preview with {{% resource_link "2d953eaf-422c-4be3-8bc4-a8262141dfed" "Google Books" %}}\]
+Cesare, Emiliani. _Planet Earth: Cosmology, Geology and the Evolution of Life and Environment_. Cambridge University Press, 1992. ISBN: 9780521409490. \[Preview with [Google Books](http://books.google.com/books?id=MfAGpVq8gpQC&pg=PAfrontcover)\]
 
 Broecker, Wallace S. _How to Build a Habitable Planet_. Columbia Univ Trustees, 1998. ISBN: 9780961751111.
 
