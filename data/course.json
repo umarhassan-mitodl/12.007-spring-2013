@@ -24,7 +24,6 @@
     "website": "12-007-geobiology-spring-2013"
   },
   "course_title": "Geobiology",
-  "hide_download": true,
   "course_description": "This course introduces the parallel evolution of life and the environment. Life processes are influenced by chemical and physical processes in the atmosphere, hydrosphere, cryosphere and the solid earth. In turn, life can influence chemical and physical processes on our planet. This course explores the concept of life as a geological agent and examines the interaction between biology and the earth system during the roughly 4 billion years since life first appeared.\n",
   "department_numbers": [
     "12"
@@ -35,7 +34,6 @@
     "content": "0e6593bd-5c7d-e131-8b87-f2b6227e3e2f",
     "website": "12-007-geobiology-spring-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Lecture Notes"

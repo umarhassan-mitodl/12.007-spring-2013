@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of course textbooks, a list of recommended
   readings, and the scedule of reading assignments by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the assignments for the course, including writing
   assignments and problem sets. Solutions are provided for the problem sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
