@@ -38,9 +38,9 @@ Morel, M. M., and J. Hering. _Principles and Applications of Aquatic Chemistry._
 Recommended Readings
 --------------------
 
-Wills, Christopher, and Jeffrey Bada. _The Spark of Life: Darwin And The Primeval Soup._ Basic Books, 2000. ISBN: 9780738201962. \[Preview with [Google Books](http://books.google.com/books?id=wqXhqLl5J50C&pg=PAfrontcover)\]
+Wills, Christopher, and Jeffrey Bada. _The Spark of Life: Darwin And The Primeval Soup._ Basic Books, 2000. ISBN: 9780738201962. \[Preview with {{% resource_link "5d51445f-a894-4914-9dfb-2e48809d84a8" "Google Books" %}}\]
 
-Cesare, Emiliani. _Planet Earth: Cosmology, Geology and the Evolution of Life and Environment_. Cambridge University Press, 1992. ISBN: 9780521409490. \[Preview with [Google Books](http://books.google.com/books?id=MfAGpVq8gpQC&pg=PAfrontcover)\]
+Cesare, Emiliani. _Planet Earth: Cosmology, Geology and the Evolution of Life and Environment_. Cambridge University Press, 1992. ISBN: 9780521409490. \[Preview with {{% resource_link "30c45e17-a613-4b62-aef4-bb29ac1f9c27" "Google Books" %}}\]
 
 Broecker, Wallace S. _How to Build a Habitable Planet_. Columbia Univ Trustees, 1998. ISBN: 9780961751111.
 
